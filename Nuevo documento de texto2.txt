@@ -1,0 +1,18 @@
+Este es mi archivo numero
+2
+Linea 21
+Linea 22
+Linea 23
+Linea 24
+Linea 25
+
+Funcion exclusiva 2
+.
+.
+.
+
+MiFuncion1
+Linea21
+Linea22
+Linea23
+Linea24
