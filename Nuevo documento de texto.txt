@@ -19,3 +19,5 @@ Linea14
 
 
 Le añado lineas al archivo1 para que el master lo vea
+asdfa
+afsd
